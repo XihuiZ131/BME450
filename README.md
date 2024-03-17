@@ -9,10 +9,12 @@ Xihui Zhao, Jinyang(Jessie) Du
 #Datasets
 Dataset 1: Brain Tumor MRI Dataset (by Masoud Nickparvar)
 https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
+
 This dataset contains 7023 images of human brain MRI images, which can be classified into four categories: glioma, meningioma, pituitary, and no tumor. 
 
 Dataset 2: Brain MRI Scans for brain tumor classification (Shreya Gupta and VishalAg11)
 https://www.kaggle.com/datasets/shreyag1103/brain-mri-scans-for-brain-tumor-classification
+
 This dataset contains 1,311 high-resolution brain MRI scans, which can also be classified into the same four classes as mentioned in dataset 1. Images from Dataset 2 may be combined with Dataset1 for further training.
 
 #Goal
