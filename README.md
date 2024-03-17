@@ -32,6 +32,7 @@ The primary purpose of this project is to develop and refine a deep learning mod
 
 
 Reference:
+
 [1] “Brain Tumor,” Mayo Clinic, https://www.mayoclinic.org/diseases-conditions/brain-tumor/symptoms-causes/syc-20350084 (accessed Mar. 17, 2024). 
 
 [2] “Brain tumors and brain cancer,” Johns Hopkins Medicine, https://www.hopkinsmedicine.org/health/conditions-and-diseases/brain-tumor (accessed Mar. 17, 2024). 
